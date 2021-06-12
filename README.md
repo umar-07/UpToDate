@@ -3,4 +3,5 @@
 
 Work Left to Do:
 • Used Flutter Geolocator Plugin to get the live location of the device
+
 • Enabled multiple Sign-In options using Firebase
