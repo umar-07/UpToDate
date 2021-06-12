@@ -1,4 +1,4 @@
-# World_Time
+# UpToDate
 • A Flutter Application which uses WorldTimeAPI to extract date and time around the globe in JSON format
 
 Work Left to Do:
