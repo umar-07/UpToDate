@@ -1,3 +1,6 @@
 # World_Time
-Created my first app using Flutter
-It basically can give information about date and time around the globe.
+• A Flutter Application which uses WorldTimeAPI to extract date and time around the globe in JSON format
+
+Work Left to Do:
+• Used Flutter Geolocator Plugin to get the live location of the device
+• Enabled multiple Sign-In options using Firebase
